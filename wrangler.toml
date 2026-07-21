@@ -1,5 +1,0 @@
-name = "zoom-studios"
-compatibility_date = "2026-07-21"
-
-[assets]
-directory = "."
